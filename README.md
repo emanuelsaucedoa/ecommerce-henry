@@ -45,9 +45,9 @@ Inside `api` you must have to create a file called: `.env`
 that has the following form: 
 
 ```
-DB_USER=userpostgres
+DB_USER=postgresuser
 DB_HOST=localhost
-DB_PASSWORD=passwordpostgres
+DB_PASSWORD=postgrespassword
 MERCADO_PAGO_ACCESS_TOKEN=APP_USR-1367375121602086-051803-90c99508dde6a50d3250624a47407451-1125857923
 CLOUD_NAME=dqqbrzze8
 CLOUDINARY_API_KEY=212832446582656
