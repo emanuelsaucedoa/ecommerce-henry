@@ -1,0 +1,6 @@
+.link img{
+  width: 10rem;
+  height: 10rem;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+}

@@ -1,0 +1,43 @@
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 1.5rem;
+}
+
+.navLink {
+  font-size: 1.7rem;
+  cursor:pointer;
+}
+
+/* .cartLink{
+  position: absolute;
+  top: 2rem;
+  right: 7.2rem;
+} */
+
+.cartLink span{
+  color: white;
+}
+
+.cart{
+  color: white;
+  font-size: 2rem;
+}
+
+.logo span {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.trapecio {
+  width: 11.75rem;
+    height: 0px;
+    border-right: 0px solid transparent;
+    border-left: 4.375rem solid transparent;
+    border-bottom: 5rem solid white;
+    position: absolute;
+    top: 0;
+    left: 86%;
+}

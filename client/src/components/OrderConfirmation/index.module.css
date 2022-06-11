@@ -1,0 +1,17 @@
+.containerAll{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container{
+    height: 50%;
+    width: 20rem;
+}
+
+.gradient{
+    background: rgb(56,161,105);
+    background: linear-gradient(180deg, rgba(56,161,105,1) 0%, rgba(56,161,105,0) 100%);
+}
